@@ -1,4 +1,4 @@
-# nyc-taxi-fare-prediction
+# New York Taxi - Fare Prediction using DASK Framework
 
 ## Data fields
 * key - Unique string identifying each row in both the training and test sets. Comprised of pickup_datetime plus a unique integer, but this doesn't matter, it should just be used as a unique ID field. Required in your submission CSV. Not necessarily needed in the training set, but could be useful to simulate a 'submission file' while doing cross-validation within the training set.
